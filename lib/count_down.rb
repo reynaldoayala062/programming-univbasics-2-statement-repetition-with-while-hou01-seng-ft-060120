@@ -1,4 +1,7 @@
 # Write your code here
-while TRUE do
-  puts "say this forever..."
+
+count = 10 
+while count >= 1 do
+  puts count 
+  count -= 1
 end
